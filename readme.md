@@ -133,4 +133,10 @@
 
 1. Descargar el archivo de la sesion y pegarlo en el directorio `php > servicios`
 
-2. 
+2. Colocar el boton de `Insertar` en la vista `alumnos`
+
+3. Codear la logica del boton en el controlador  `alumno`
+
+4. Añadir la directiva `ng-hide` en la vista `alumno` para ocultar la entrada `codigo`
+
+5. Modificar la funcion `guardarAlumno` en el controlador `alumno`
