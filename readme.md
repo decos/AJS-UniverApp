@@ -140,3 +140,23 @@
 4. Añadir la directiva `ng-hide` en la vista `alumno` para ocultar la entrada `codigo`
 
 5. Modificar la funcion `guardarAlumno` en el controlador `alumno`
+
+# Font Awesome
+
+~~~
+Nos regala una gran cantidad de íconos vectorisados, quiere decir que los vas a extender todo lo que desees y no se van a pixelear nunca.
+~~~
+
+Recursos:
+    - http://fontawesome.io/ (4.7.0)
+    - http://fontawesome.io/icons/
+
+1. Descargar `Font Awesome` del primer Recursos
+
+2. Unzip file y colocarlo en la raiz del proyecto con el nombre `font-awesome`
+
+3. Llamar al archivo `css/font-awesome.min.css` desde el fichero `index` del proyecto
+
+4. Colocar las etiquetas `i` para usar los íconos de `font-awesome`
+    - <i class="fa fa-chevron-left"></i>
+    - <i class="fa fa-user-plus"></i>
